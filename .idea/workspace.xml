@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c02ef961-9a30-4760-8abb-17d1d212379c" name="Changes" comment="Домашнее задание по теме &quot;Структура проекта. Маршруты и модели Pydantic&quot;">
-      <change afterPath="$PROJECT_DIR$/backend/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c02ef961-9a30-4760-8abb-17d1d212379c" name="Changes" comment="Домашнее задание по теме &quot;Модели SQLALchemy. Отношения между таблицами&quot;. | Ошибка при выведении таблиц" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,11 +206,40 @@
       <option name="project" value="LOCAL" />
       <updated>1724616750127</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Домашнее задание по теме &quot;Модели SQLALchemy. Отношения между таблицами&quot;">
+      <option name="closed" value="true" />
+      <created>1724674426567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724674426567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашнее задание по теме &quot;Модели SQLALchemy. Отношения между таблицами&quot;. | Ошибка при выведении таблиц">
+      <option name="closed" value="true" />
+      <created>1724674492259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724674492259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашнее задание по теме &quot;Структура проекта. Маршруты и модели Pydantic&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Структура проекта. Маршруты и модели Pydantic&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Модели SQLALchemy. Отношения между таблицами&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Модели SQLALchemy. Отношения между таблицами&quot;. | Ошибка при выведении таблиц" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Модели SQLALchemy. Отношения между таблицами&quot;. | Ошибка при выведении таблиц" />
   </component>
 </project>
